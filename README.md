@@ -156,7 +156,7 @@ flowchart TD
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/technology-intelligence-platform.git
+git clone https://github.com/AnvinX1/DRDO-platform.git
 cd technology-intelligence-platform
 ```
 
@@ -395,10 +395,10 @@ graph TB
 - **Training Materials**: User training resources
 
 ### Contact Information
-- **Project Lead**: [Your Name]
-- **Technical Lead**: [Technical Lead Name]
-- **Email**: [project-email@domain.com]
-- **Repository**: [GitHub Repository URL]
+- **Project Lead**: [Anvin]
+- **Technical Lead**: [Anvin]
+- **Email**: [anvinpshibu@gmail.com]
+- **Repository**: [https://github.com/AnvinX1/DRDO-platform.git]
 
 ## License
 
